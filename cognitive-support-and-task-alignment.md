@@ -5,7 +5,7 @@
 
 **Accessibility Concern:** Cognitive load, memory limitations, divided attention, problem-solving constraints
 
-1. [Learnability](Cognitive Support and Task Alignment/learnability.md)
+1. [Learnability](<Cognitive Support and Task Alignment/learnability>)
 2. [Suitability for the user's tasks](suitability-for-the-user's-tasks.md)
 3. [Conciseness](conciseness.md)
 4. [Freedom from distraction](freedom-from-distraction.md)
