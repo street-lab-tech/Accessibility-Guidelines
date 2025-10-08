@@ -1,4 +1,4 @@
-# Accessibility-Guidelines
+# Accessibility Guidelines
 
 Description: Lorem epsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 <!--thaksha does guidelines 1-3-->
