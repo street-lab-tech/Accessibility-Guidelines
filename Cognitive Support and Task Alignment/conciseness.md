@@ -1,3 +1,5 @@
+[← Back](../cognitive-support-and-task-alignment.md)
+
 # Conciseness
 
 **Definition:** The system presents information concisely, showing only what is necessary for the users’ immediate goals, avoiding irrelevant or redundant data that could increase cognitive burden.
@@ -8,4 +10,4 @@
 * Use progressive disclosure where appropriate, especially for users with cognitive or perceptual limitations.
 
 ## Examples
-Example 1. Ensure a UI section is not cluttered even when it includes similar interactions and information needed to complete tasks.
+_Example 1._ Ensure a UI section is not cluttered even when it includes similar interactions and information needed to complete tasks.
