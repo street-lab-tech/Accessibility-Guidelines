@@ -4,8 +4,8 @@
 
 **Accessibility Concern:** Use of assistive technologies and multiple input methods
 
-1. [Operability of Interactive Components](operability-of-interactive-components.md)
-2. [User Compatibility](user-compatibility.md)
-3. [Controllability](controllability.md)
-4. [Real-time text (RTT) Functionality](real-time-text-functionality.md)
-5. [Orientation](orientation.md)
+1. [Operability of Interactive Components](<Operable/operability-of-interactive-components.md>)
+2. [User Compatibility](<Operable/user-compatibility.md>)
+3. [Controllability](<Operable/controllability.md>)
+4. [Real-time text (RTT) Functionality](<Operable/real-time-text-functionality.md>)
+5. [Orientation](<Operable/orientation.md>)
