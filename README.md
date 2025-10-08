@@ -24,7 +24,7 @@ to learn more about whatever you want after studying it.
 19. [Exceptions](exceptions.md)
 20. [Classes](classes.md)
 21. [Docstrings](docstrings.md)
-22. [Learnebility](learneability.md)
+22. [Learnability](learnability.md)
 
 ***
 
