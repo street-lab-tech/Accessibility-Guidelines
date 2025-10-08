@@ -1,4 +1,4 @@
-# Suitability for the User's Tasks
+# Suitability for the user's tasks
 
 **Definition:** The system supports users in completing tasks by aligning its functions and interactions models with their goals and workflows.
 
