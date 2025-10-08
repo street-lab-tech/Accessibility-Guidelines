@@ -1,3 +1,5 @@
+[← Back](../cognitive-support-and-task-alignment.md)
+
 # Learnability
 
 **Definition:** Users are able to discover, understand and retain how to use a system with minimal instructions. The system supports exploration of features, reduces memory burden, minimizes the learning curve, and provides support when learning is needed.
@@ -8,4 +10,4 @@
 * Elements that the user needs to discover include information, controls, system responses to action, navigation structure, data relationships, among others.
 
 ## Examples
-Example 1. Include navigational aids to apply certain interactions that users will commonly use such as applying masks.
+_Example 1._ Include navigational aids to apply certain interactions that users will commonly use such as applying masks.
