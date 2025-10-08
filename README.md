@@ -1,40 +1,12 @@
 # Accessibility-Guidelines
 
-This section will get you started with using Python and you'll be able
-to learn more about whatever you want after studying it.
-
-1. [New guidelines?](new sub.md)
-2. [Installing Python](installing-python.md)
-3. [Getting started with Python](getting-started.md)
-4. [ThinkPython: The way of the program](the-way-of-the-program.md)
-5. [Variables, Booleans and None](variables.md)
-6. [Using functions](using-functions.md)
-7. [Setting up an editor](editor-setup.md)
-8. [If, else and elif](if.md)
-9. [Handy stuff with strings](handy-stuff-strings.md)
-10. [Lists and tuples](lists-and-tuples.md)
-11. [Loops](loops.md)
-12. [zip and enumerate](zip-and-enumerate.md)
-13. [Dictionaries](dicts.md)
-14. [Defining functions](defining-functions.md)
-15. [Writing a larger program](larger-program.md)
-16. [What is true?](what-is-true.md)
-17. [Files](files.md)
-18. [Modules](modules.md)
-19. [Exceptions](exceptions.md)
-20. [Classes](classes.md)
-21. [Docstrings](docstrings.md)
-22. [Learnability](learnability.md)
-
-***
-
-If you have trouble with this tutorial, please
-[tell me about it](../contact-me.md) and I'll make this tutorial better,
-or [ask for help online](../getting-help.md).
-If you like this tutorial, please [give it a
-star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
-
-You may use this tutorial freely at your own risk. See
-[LICENSE](../LICENSE).
-
-[List of contents](../README.md#list-of-contents)
+Description: Lorem epsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<!--thaksha does guidelines 1-3-->
+1. [Guideline 1: Cognitive Support and Task Alignment](cognitive-support-and-task-alignment.md)
+2. [Guideline 2: Adaptability - Freedom of User Control](adaptability_freedom-of-user-control.md)
+3. [Guideline 3: Operable](operable.md)
+<!--sid does guidelines 4-7-->
+4. [Guideline 4: Perceivable](perceivable.md)
+5. [Guideline 5: Understandable](understandable.md)
+6. [Guideline 6: Robust](robust.md)
+7. [Guideline 7: Ergonomics](ergonomics.md)
