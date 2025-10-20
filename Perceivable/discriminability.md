@@ -1,4 +1,4 @@
-[← Back](../adaptability_freedom-of-user-control.md)
+[← Back](../perceivable.md)
 
 # Discriminability
 
