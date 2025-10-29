@@ -1,4 +1,4 @@
-[← Back](README.md)
+[← Back](guidelines.md)
 
 # Guideline: Adaptability - Freedom of User Control
 
