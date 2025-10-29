@@ -1,6 +1,6 @@
 [← Back](../ergonomics.md)
 
-# Ergonomic guidance on auditory presentation of information
+# Sub-Guideline: Ergonomic guidance on auditory presentation of information
 
 **Definition:** Auditory information is presented in a way that aligns with human auditory perception, capabilities, and comfort.
 
