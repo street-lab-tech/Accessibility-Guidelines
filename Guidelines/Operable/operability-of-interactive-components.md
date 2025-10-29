@@ -1,6 +1,6 @@
 [← Back](../operable.md)
 
-# Operability of Interactive Components
+# Sub-Guideline: Operability of Interactive Components
 
 **Definition:** Interactive components must be functionally usable across a variety of input methods, and the system should ensure that all users can interact with it.
 
