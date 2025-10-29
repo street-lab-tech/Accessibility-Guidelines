@@ -1,6 +1,6 @@
 [← Back](../robust.md)
 
-# Robustness with AT
+# Sub-Guideline: Robustness with AT
 
 **Definition:** The system must be compatible with current assistive technologies and compatible or adaptable to future assistive technologies.
 
