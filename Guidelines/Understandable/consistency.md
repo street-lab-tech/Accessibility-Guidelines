@@ -1,6 +1,6 @@
 [← Back](../understandable.md)
 
-# Consistency
+# Sub-Guideline: Consistency
 
 **Definition:** Interfaces should be consistent in their presentation and behaviours, helping users build reliable expectations about how the system works.
 
