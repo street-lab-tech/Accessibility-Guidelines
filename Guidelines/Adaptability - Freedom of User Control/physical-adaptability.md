@@ -1,6 +1,6 @@
 [← Back](../adaptability_freedom-of-user-control.md)
 
-# Physical Adaptability
+# Sub-Guideline: Physical Adaptability
 
 **Definition:** The system accommodates diverse physical postures, device setups and hardware configurations, including a range of assistive input technologies, and user contexts. 
 
