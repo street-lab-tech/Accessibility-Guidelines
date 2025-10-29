@@ -1,6 +1,6 @@
 [← Back](../perceivable.md)
 
-# Discriminability
+# Sub-Guideline: Discriminability
 
 **Definition:** Presented information must be clearly distinguishable so users can tell different elements of information apart, especially in complex or data-dense contexts.
 
