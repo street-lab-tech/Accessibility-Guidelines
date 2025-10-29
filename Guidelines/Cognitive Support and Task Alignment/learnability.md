@@ -1,6 +1,6 @@
 [← Back](../cognitive-support-and-task-alignment.md)
 
-# Learnability
+# Subguideline: Learnability
 
 **Definition:** Users are able to discover, understand and retain how to use a system with minimal instructions. The system supports exploration of features, reduces memory burden, minimizes the learning curve, and provides support when learning is needed.
 
