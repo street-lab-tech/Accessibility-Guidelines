@@ -1,6 +1,6 @@
 [← Back](../operable.md)
 
-# Controllability
+# Sub-Guideline: Controllability
 
 **Definition:** The system allows the user to adjust and personalize system interactions (e.g.,speed, display preferences, input methods, etc.) to their needs and preferences, and maintain control over the system's behavior.
 
