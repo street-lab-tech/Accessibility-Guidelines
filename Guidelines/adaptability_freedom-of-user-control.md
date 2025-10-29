@@ -6,7 +6,7 @@
 
 **Accessibility Concern:** Accommodation of assistive technologies and alternative input modalities
 
-1. [System Versatility and Flexibility](<Adaptability - Freedom of User Control/system-versatility-and-flexibility.md>)
-2. [Physical Adaptability](<Adaptability - Freedom of User Control/physical-adaptability.md>)
-3. [Environmental Responsiveness](<Adaptability - Freedom of User Control/environmental-responsiveness.md>)
-4. [Privacy](<Adaptability - Freedom of User Control/privacy.md>)
+1. [Sub-Guideline: System Versatility and Flexibility](<Adaptability - Freedom of User Control/system-versatility-and-flexibility.md>)
+2. [Sub-Guideline: Physical Adaptability](<Adaptability - Freedom of User Control/physical-adaptability.md>)
+3. [Sub-Guideline: Environmental Responsiveness](<Adaptability - Freedom of User Control/environmental-responsiveness.md>)
+4. [Sub-Guideline: Privacy](<Adaptability - Freedom of User Control/privacy.md>)
