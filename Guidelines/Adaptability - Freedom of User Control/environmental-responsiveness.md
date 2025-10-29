@@ -1,6 +1,6 @@
 [← Back](../adaptability_freedom-of-user-control.md)
 
-# Environmental Responsiveness
+# Sub-Guideline: Environmental Responsiveness
 
 **Definition:** The system adapts to environmental factors (e.g., lighting, sound levels, vibrations) that affect usability, comfort, and efficiency.
 
