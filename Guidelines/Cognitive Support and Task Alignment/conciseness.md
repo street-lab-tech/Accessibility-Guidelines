@@ -1,6 +1,6 @@
 [← Back](../cognitive-support-and-task-alignment.md)
 
-# Conciseness
+# Sub-Guideline: Conciseness
 
 **Definition:** The system presents information concisely, showing only what is necessary for the users’ immediate goals, avoiding irrelevant or redundant data that could increase cognitive burden.
 
