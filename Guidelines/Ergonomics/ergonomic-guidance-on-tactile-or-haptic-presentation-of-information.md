@@ -1,6 +1,6 @@
 [← Back](../ergonomics.md)
 
-# Ergonomic guidance on tactile or haptic presentation of information
+# Sub-Guideline: Ergonomic guidance on tactile or haptic presentation of information
 
 **Definition:** Tactile or haptic information is presented in a way that aligns with human haptic/active touch perception, capabilities, and comfort.
 
