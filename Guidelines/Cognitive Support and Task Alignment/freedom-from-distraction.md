@@ -1,6 +1,6 @@
 [← Back](../cognitive-support-and-task-alignment.md)
 
-# Subguideline: Freedom from Distraction
+# Sub-Guideline: Freedom from Distraction
 
 **Definition:** The system presents information without other irrelevant information or competing stimuli interfering with its perception.
 
