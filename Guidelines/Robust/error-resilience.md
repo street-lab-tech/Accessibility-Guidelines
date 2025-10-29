@@ -1,6 +1,6 @@
 [← Back](../robust.md)
 
-# Error Resilience
+# Sub-Guideline: Error Resilience
 
 **Definition:** The system should support error prevention, detection, and recovery, along with  minimizing negative consequences of user errors. Emphasize designing systems that are tolerant of mistakes and guide users toward successful interactions.
 
