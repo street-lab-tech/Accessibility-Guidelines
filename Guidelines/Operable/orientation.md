@@ -1,6 +1,6 @@
 [← Back](../operable.md)
 
-# Orientation
+# Sub-Guideline: Orientation
 
 **Definition:** The system provides clear spatial and contextual cues to support navigability, especially in data-dense or spatial environments.
 
