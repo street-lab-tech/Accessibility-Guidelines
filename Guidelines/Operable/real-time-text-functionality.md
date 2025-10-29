@@ -1,6 +1,6 @@
 [← Back](../operable.md)
 
-# Real-Time Text (RTT) Functionality
+# Sub-Guideline: Real-Time Text (RTT) Functionality
 
 **Definition:** Systems that provide two-way voice communication and real-time text to allow concurrent voice and text through a single user connection to complete their tasks.
 
