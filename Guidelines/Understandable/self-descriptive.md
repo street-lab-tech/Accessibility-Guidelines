@@ -1,6 +1,6 @@
 [← Back](../understandable.md)
 
-# Self-descriptive
+# Sub-Guideline: Self-descriptive
 
 **Definition:** The system should clearly communicate what functions are available and how they can be used, without requiring unnecessary user exploration. 
 
