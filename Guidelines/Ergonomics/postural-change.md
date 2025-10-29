@@ -1,6 +1,6 @@
 [← Back](../ergonomics.md)
 
-# Postural Change
+# Sub-Guideline: Postural Change
 
 **Definition:** The interface supports transitions between physical postures and usage conditions, facilitating performance and comfort, avoiding biomechanical stress and fatigue.
 
