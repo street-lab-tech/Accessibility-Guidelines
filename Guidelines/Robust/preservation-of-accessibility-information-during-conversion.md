@@ -1,6 +1,6 @@
 [← Back](../robust.md)
 
-# Preservation of accessibility information during conversion
+# Sub-Guideline: Preservation of accessibility information during conversion
 
 **Definition:** When information is converted from one format to another (e.g., exporting, saving, or rendering to alternative formats), the system must retain all accessibility-related metadata to the fullest extent possible, i.e. what the destination format supports.
 
