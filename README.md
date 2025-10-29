@@ -1,5 +1,7 @@
-# Accessibility Guidelines
+# Accessibility Guidelines for Scientific Software
 
-Description: Lorem epsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This set of accessibility guidelines were put together to make scienctifc software, particularly in biology, more accessible to a broad user base. It uses existing accessibility standards and guidelines such as ISO, WCAG, EN 301 549, Apple Accessibility Guidelines, and Game Accessibility Guidelines tailored specifically for scientific analysis contexts.
 
-include all of our names
+[Get Started: Take a look at our guidelines](Guidelines/guidelines.md)
+
+Authors: Priyank Chandra, Thaksha Krishnagumar, Siddhant Shinde
