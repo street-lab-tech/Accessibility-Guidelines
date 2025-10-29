@@ -1,6 +1,6 @@
 [← Back](../cognitive-support-and-task-alignment.md)
 
-# Suitability for the User's Tasks
+# Subguideline: Suitability for the User's Tasks
 
 **Definition:** The system supports users in completing tasks by aligning its functions and interactions models with their goals and workflows.
 
