@@ -1,6 +1,6 @@
 [← Back](../understandable.md)
 
-# Interpretability
+# Sub-Guideline: Interpretability
 
 **Definition:** Information should be presented in a clear and unambiguous manner, so users can easily understand its meaning and act on it as intended. 
 
