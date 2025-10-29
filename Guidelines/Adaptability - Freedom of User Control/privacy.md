@@ -1,6 +1,6 @@
 [← Back](../adaptability_freedom-of-user-control.md)
 
-# Privacy
+# Sub-Guideline: Privacy
 
 **Definition:** The system maintains the privacy of users using accessibility features at the same level as those not using these features.
 
