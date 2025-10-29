@@ -1,4 +1,4 @@
-[← Back](README.md)
+[← Back](guidelines.md)
 
 # Guideline: Cognitive Support and Task Alignment
 
