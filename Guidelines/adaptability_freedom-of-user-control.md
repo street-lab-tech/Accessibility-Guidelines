@@ -1,6 +1,6 @@
 [← Back](README.md)
 
-# Adaptability - Freedom of User Control
+# Guideline: Adaptability - Freedom of User Control
 
 **Definition:** Users have control over their interactions, and can adapt systems and environments to meet their preferences, needs, and contextual conditions.
 
