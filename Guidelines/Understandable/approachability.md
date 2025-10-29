@@ -1,6 +1,6 @@
 [← Back](../understandable.md)
 
-# Approachability
+# Sub-Guideline: Approachability
 
 **Definition:** The interactive system captures the users' attention and motivates them to continue using the system in an engaged and effective manner.
 
