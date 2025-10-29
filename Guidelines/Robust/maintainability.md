@@ -1,6 +1,6 @@
 [← Back](../robust.md)
 
-# Maintainability
+# Sub-Guideline: Maintainability
 
 **Definition:** The system should be designed to allow for easy maintenance and updates. This includes allowing for repairs, updates, bug fixes, and improvements without significant disruption to user workflows.
 
