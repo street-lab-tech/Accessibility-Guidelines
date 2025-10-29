@@ -1,6 +1,6 @@
 [← Back](../ergonomics.md)
 
-# Ergonomic guidance on visual presentation of information
+# Sub-Guideline: Ergonomic guidance on visual presentation of information
 
 **Definition:** Visual information is presented in a way that aligns with human visual perception, capabilities, and comfort.
 
