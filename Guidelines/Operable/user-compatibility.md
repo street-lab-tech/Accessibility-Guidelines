@@ -1,6 +1,6 @@
 [← Back](../operable.md)
 
-# User Compatibility
+# Sub-Guideline: User Compatibility
 
 **Definition:** The system accommodates a variety of anthropometric, biomechanical, and cognitive capabilities through compatible input/output configurations.
 
