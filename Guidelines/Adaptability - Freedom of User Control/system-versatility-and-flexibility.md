@@ -1,6 +1,6 @@
 [← Back](../adaptability_freedom-of-user-control.md)
 
-# System Versatility and Flexibility
+# Sub-Guideline: System Versatility and Flexibility
 
 **Definition:** The system supports multiple interaction modalities and pathways to achieve the same goal (or complete tasks), allowing users to choose the mechanisms that best fit their abilities and context.
 
