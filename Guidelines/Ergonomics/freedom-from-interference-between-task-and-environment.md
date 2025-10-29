@@ -1,6 +1,6 @@
 [← Back](../ergonomics.md)
 
-# Freedom from interference between task & environment
+# Sub-Guideline: Freedom from interference between task & environment
 
 **Definition:** Any interference between the environment and the interactive system should be avoided, or at least kept to a minimum so that the user can maintain full control of the task under consideration.
 
