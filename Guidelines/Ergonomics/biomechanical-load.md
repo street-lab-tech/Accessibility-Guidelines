@@ -1,6 +1,6 @@
 [← Back](../ergonomics.md)
 
-# Biomechanical Load
+# Sub-Guideline: Biomechanical Load
 
 **Definition:** Interactions minimize physical strain, taking into consideration the postures of the entire body and the part of the body relevant for the use of the input device.
 
