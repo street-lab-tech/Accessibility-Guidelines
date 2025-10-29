@@ -1,6 +1,6 @@
 [← Back](../perceivable.md)
 
-# Detectability
+# Sub-Guideline: Detectability
 
 **Definition:** Information should be presented in a way that ensures users can notice its presence without difficulty, and recognize when a system action or state change has occurred.
 
