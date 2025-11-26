@@ -5,3 +5,5 @@ This set of accessibility guidelines were put together to make scienctifc softwa
 [Get Started: explore our guidelines](Guidelines/guidelines.md)
 
 Authors: Priyank Chandra, Thaksha Krishnagumar, Siddhant Shinde
+
+These guidelines are part of the Accessible & Inclusive Data sciencE (AIDE) project funded by NFRF-E grant. PI: Kieran Campbell, co-PI: Priyank Chandra
