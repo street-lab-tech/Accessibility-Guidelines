@@ -1,6 +1,6 @@
 [← Back](guidelines.md)
 
-# Guideline: Cognitive Support and Task Alignment
+# Guideline: Cognitive Support & Task Alignment
 
 **Definition:** The system supports users’ cognitive processes by aligning with users’ mental models (i.e. internal representation of how something works) and cognitive demands of tasks. The system must behave predictably, reducing unnecessary cognitive effort.
 
