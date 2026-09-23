@@ -7,5 +7,5 @@
 **Accessibility Concern:** Sensory disabilities (e.g., blindness, deafness)
 
 
-1. [Sub-Guideline: Discriminability](<perceptual-awareness/discriminability.md>)
-2. [Sub-Guideline: Detectability](<perceptual-awareness/detectability.md>)
+1. [Sub-Guideline: Discriminability](<Perceptual Awareness/discriminability.md>)
+2. [Sub-Guideline: Detectability](<Perceptual Awareness/detectability.md>)

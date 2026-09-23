@@ -6,8 +6,8 @@
 
 **Accessibility Concern:** Use of assistive technologies and multiple input methods
 
-1. [Sub-Guideline: Operability of Interactive Components](<interaction-control/operability-of-interactive-components.md>)
-2. [Sub-Guideline: User Compatibility](<interaction-control/user-compatibility.md>)
-3. [Sub-Guideline: Controllability](<interaction-control/controllability.md>)
-4. [Sub-Guideline: Real-time text (RTT) Functionality](<interaction-control/real-time-text-functionality.md>)
-5. [Sub-Guideline: Orientation](<interaction-control/orientation.md>)
+1. [Sub-Guideline: Operability of Interactive Components](<Interaction Control/operability-of-interactive-components.md>)
+2. [Sub-Guideline: User Compatibility](<Interaction Control/user-compatibility.md>)
+3. [Sub-Guideline: Controllability](<Interaction Control/controllability.md>)
+4. [Sub-Guideline: Real-time text (RTT) Functionality](<Interaction Control/real-time-text-functionality.md>)
+5. [Sub-Guideline: Orientation](<Interaction Control/orientation.md>)
