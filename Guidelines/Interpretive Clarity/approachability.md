@@ -1,4 +1,4 @@
-[← Back](../understandable.md)
+[← Back](../interpretive-clarity.md)
 
 # Sub-Guideline: Approachability
 
